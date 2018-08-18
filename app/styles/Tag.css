@@ -1,0 +1,33 @@
+.tag-text {
+    /* color: */
+    font-size: .85rem;
+    color: #FA7B90;
+    margin: 0 .5rem 0 0;
+    display: inline-block;
+}
+
+.tag-container {
+    /* Rectangle: */
+    background-color: #FBF4D8;
+    border: 1px solid #FA7B90;
+    display: inline-block;
+    padding: .5rem .25rem;
+}
+
+.tag-close {
+    height: .85rem;
+    width: .85rem;
+    color: #FA7B90;
+    display: inline-block;
+    position: relative;
+    top: 2px;
+}
+
+.tag-close:hover {
+    height: .85rem;
+    width: .85rem; 
+    color: #FA7B90;
+    display: inline-block;
+    position: relative;
+    top: 2px;
+}

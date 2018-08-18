@@ -1,0 +1,1484 @@
+[{
+    "children": [{
+        "dateAdded": 1389570282217,
+        "id": "189",
+        "index": 0,
+        "parentId": "18",
+        "title": "UX Archive",
+        "url": "http://uxarchive.com/"
+    }, {
+        "dateAdded": 1389939162685,
+        "id": "190",
+        "index": 1,
+        "parentId": "18",
+        "title": "Guidelines and Best Practices — The Elements Of The Mobile User Experience | Smashing Mobile",
+        "url": "http://mobile.smashingmagazine.com/2012/07/12/elements-mobile-user-experience/"
+    }, {
+        "dateAdded": 1377136983295,
+        "id": "191",
+        "index": 2,
+        "parentId": "18",
+        "title": "The iOS 7 Design Cheat Sheet - Ivo Mynttinen / User Interface Designer",
+        "url": "http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/"
+    }, {
+        "dateAdded": 1390550793452,
+        "id": "192",
+        "index": 3,
+        "parentId": "18",
+        "title": "Interaction Design Foundation",
+        "url": "http://www.interaction-design.org/"
+    }, {
+        "dateAdded": 1391017160267,
+        "id": "193",
+        "index": 4,
+        "parentId": "18",
+        "title": "Get a Peek Into Your Site's Usability | Peek by UserTesting",
+        "url": "http://peek.usertesting.com/"
+    }, {
+        "dateAdded": 1391414889862,
+        "id": "194",
+        "index": 5,
+        "parentId": "18",
+        "title": "www.mprove.de/script/00/upa/_media/upaposter_85x11.pdf",
+        "url": "http://www.mprove.de/script/00/upa/_media/upaposter_85x11.pdf"
+    }, {
+        "dateAdded": 1391417350867,
+        "id": "195",
+        "index": 6,
+        "parentId": "18",
+        "title": "D. School Use our methods",
+        "url": "http://dschool.stanford.edu/use-our-methods/"
+    }, {
+        "dateAdded": 1391577004672,
+        "id": "196",
+        "index": 7,
+        "parentId": "18",
+        "title": "s3.amazonaws.com/media.nngroup.com/media/reports/free/User_Experience_Careers.pdf",
+        "url": "http://s3.amazonaws.com/media.nngroup.com/media/reports/free/User_Experience_Careers.pdf"
+    }, {
+        "dateAdded": 1392096111212,
+        "id": "197",
+        "index": 8,
+        "parentId": "18",
+        "title": "Home | Usability.gov",
+        "url": "http://www.usability.gov/"
+    }, {
+        "dateAdded": 1392097981026,
+        "id": "198",
+        "index": 9,
+        "parentId": "18",
+        "title": "Nine of the Best Ways to Boost Creative Thinking",
+        "url": "http://lifehacker.com/5990617/nine-of-the-best-ways-to-boost-creative-thinking"
+    }, {
+        "dateAdded": 1392256157510,
+        "id": "199",
+        "index": 10,
+        "parentId": "18",
+        "title": "UserTesting: Remote Usability Testing Software. Results in 1-hour.",
+        "url": "http://www.usertesting.com/"
+    }, {
+        "children": [{
+            "dateAdded": 1444682111224,
+            "id": "884",
+            "index": 0,
+            "parentId": "881",
+            "title": "AssetBuilder Website - Case Study by Zack Davis",
+            "url": "http://2721west.com/work/assetbuilder"
+        }, {
+            "dateAdded": 1445874542478,
+            "id": "896",
+            "index": 1,
+            "parentId": "881",
+            "title": "BEST: Agency Sites",
+            "url": "http://bestagencysites.com/"
+        }, {
+            "dateAdded": 1445874942618,
+            "id": "897",
+            "index": 2,
+            "parentId": "881",
+            "title": "From up North - High quality design inspiration",
+            "url": "http://www.fromupnorth.com/"
+        }, {
+            "dateAdded": 1446507487998,
+            "id": "901",
+            "index": 3,
+            "parentId": "881",
+            "title": "AMB 1",
+            "url": "https://amb-1.com/"
+        }, {
+            "dateAdded": 1446571086266,
+            "id": "902",
+            "index": 4,
+            "parentId": "881",
+            "title": "TypeSource: Google Web Font inspiration in HTML & CSS",
+            "url": "http://tobiasahlin.com/typesource/"
+        }, {
+            "dateAdded": 1446762977409,
+            "id": "904",
+            "index": 5,
+            "parentId": "881",
+            "title": "The Typographic Details Behind Typewolf’s Favorite Sites of October 2015 → Typewolf",
+            "url": "https://www.typewolf.com/blog/favorite-sites-of-october-2015"
+        }, {
+            "dateAdded": 1448473995131,
+            "id": "925",
+            "index": 6,
+            "parentId": "881",
+            "title": "About Me | Jason Santa Maria",
+            "url": "http://jasonsantamaria.com/about/"
+        }, {
+            "dateAdded": 1452203679771,
+            "id": "939",
+            "index": 7,
+            "parentId": "881",
+            "title": "Minimally Minimal",
+            "url": "http://www.minimallyminimal.com/"
+        }, {
+            "dateAdded": 1452203697229,
+            "id": "940",
+            "index": 8,
+            "parentId": "881",
+            "title": "littledrummertoy.ableton.com",
+            "url": "http://littledrummertoy.ableton.com/"
+        }, {
+            "dateAdded": 1456446553791,
+            "id": "974",
+            "index": 9,
+            "parentId": "881",
+            "title": "styleguide_aftership.jpg (6756×6096)",
+            "url": "https://d13yacurqjgara.cloudfront.net/users/252114/screenshots/2544546/attachments/503154/styleguide_aftership.jpg"
+        }],
+        "dateAdded": 1444682109444,
+        "dateGroupModified": 1456446553791,
+        "id": "881",
+        "index": 11,
+        "parentId": "18",
+        "title": "Insp"
+    }, {
+        "children": [{
+            "dateAdded": 1431073122390,
+            "id": "331",
+            "index": 0,
+            "parentId": "13",
+            "title": "UsabilityNet: questionnaire resources",
+            "url": "http://usabilitynet.org/tools/r_questionnaire.htm"
+        }, {
+            "dateAdded": 1352231689224,
+            "id": "332",
+            "index": 1,
+            "parentId": "13",
+            "title": "Ask H&FJ: Four Ways to Mix Fonts",
+            "url": "http://www.typography.com/email/2010_03/index_tw.htm"
+        }, {
+            "dateAdded": 1431073122390,
+            "id": "333",
+            "index": 2,
+            "parentId": "13",
+            "title": "Lost Type",
+            "url": "http://losttype.com/browse/"
+        }, {
+            "dateAdded": 1352335382132,
+            "id": "335",
+            "index": 3,
+            "parentId": "13",
+            "title": "Handpicked free fonts for graphic designers with commercial-use licenses. | Font Squirrel",
+            "url": "http://www.fontsquirrel.com/"
+        }, {
+            "dateAdded": 1351214535601,
+            "id": "336",
+            "index": 4,
+            "parentId": "13",
+            "title": "UX Magazine",
+            "url": "http://uxmag.com/"
+        }, {
+            "dateAdded": 1352845082649,
+            "id": "337",
+            "index": 5,
+            "parentId": "13",
+            "title": "The Noun Project",
+            "url": "http://thenounproject.com/"
+        }, {
+            "dateAdded": 1353380068152,
+            "id": "338",
+            "index": 6,
+            "parentId": "13",
+            "title": "The Next Web - International technology news, business & culture",
+            "url": "http://thenextweb.com/"
+        }, {
+            "dateAdded": 1353393012271,
+            "id": "339",
+            "index": 7,
+            "parentId": "13",
+            "title": "Kinetic Typography Tutorial on Vimeo",
+            "url": "http://vimeo.com/26079113#"
+        }, {
+            "dateAdded": 1431073122390,
+            "id": "340",
+            "index": 8,
+            "parentId": "13",
+            "title": "Easy Kinetic Typography",
+            "url": "http://ianhaigh.com/easeandwizz/#usage"
+        }, {
+            "dateAdded": 1354473837217,
+            "id": "341",
+            "index": 9,
+            "parentId": "13",
+            "title": "Graphic Competitions",
+            "url": "http://www.graphiccompetitions.com/"
+        }, {
+            "dateAdded": 1354574086682,
+            "id": "342",
+            "index": 10,
+            "parentId": "13",
+            "title": "Axure",
+            "url": "http://www.axure.com/"
+        }, {
+            "dateAdded": 1431073122391,
+            "id": "343",
+            "index": 11,
+            "parentId": "13",
+            "title": "Molly Lafferty",
+            "url": "http://mklkm.org/"
+        }, {
+            "dateAdded": 1355299897580,
+            "id": "344",
+            "index": 12,
+            "parentId": "13",
+            "title": "Pixate",
+            "url": "http://www.pixate.com/"
+        }, {
+            "dateAdded": 1355365828115,
+            "id": "345",
+            "index": 13,
+            "parentId": "13",
+            "title": "Code | Webdesigner Depot",
+            "url": "http://www.webdesignerdepot.com/category/code/"
+        }, {
+            "dateAdded": 1355601103010,
+            "id": "346",
+            "index": 14,
+            "parentId": "13",
+            "title": "Lauren Von Dehsen",
+            "url": "http://laurenvondehsen.com/"
+        }, {
+            "dateAdded": 1431073122391,
+            "id": "347",
+            "index": 15,
+            "parentId": "13",
+            "title": "Thoughts on Design Portfolios | Austin Center for Design",
+            "url": "http://www.ac4d.com/2012/04/14/thoughts-on-design-portfolios/"
+        }, {
+            "dateAdded": 1358221658026,
+            "id": "348",
+            "index": 16,
+            "parentId": "13",
+            "title": "Jessica Hische - Awesome",
+            "url": "http://jessicahische.is/awesome"
+        }, {
+            "dateAdded": 1358462674947,
+            "id": "349",
+            "index": 17,
+            "parentId": "13",
+            "title": "Game Icons",
+            "url": "http://game-icons.net/"
+        }, {
+            "dateAdded": 1358551025976,
+            "id": "350",
+            "index": 18,
+            "parentId": "13",
+            "title": "Beautiful Responsive Websites",
+            "url": "http://abduzeedo.com/beautiful-responsive-websites"
+        }, {
+            "dateAdded": 1358567170766,
+            "id": "351",
+            "index": 19,
+            "parentId": "13",
+            "title": "Welcome to Icon Deposit - Icon Deposit",
+            "url": "http://www.icondeposit.com/"
+        }, {
+            "dateAdded": 1359048324168,
+            "id": "352",
+            "index": 20,
+            "parentId": "13",
+            "title": "Portfolio — Kathryyn Thomas",
+            "url": "http://kathryynthomas.com/index/"
+        }, {
+            "dateAdded": 1359048546876,
+            "id": "353",
+            "index": 21,
+            "parentId": "13",
+            "title": "10 LESS CSS Examples You Should Steal for Your Projects | Design Shack",
+            "url": "http://designshack.net/articles/css/10-less-css-examples-you-should-steal-for-your-projects/"
+        }, {
+            "dateAdded": 1359271145953,
+            "id": "354",
+            "index": 22,
+            "parentId": "13",
+            "title": "Web Design Blog, Tutorials and Inspiration | Web Design Ledger",
+            "url": "http://webdesignledger.com/"
+        }, {
+            "dateAdded": 1359272820790,
+            "id": "355",
+            "index": 23,
+            "parentId": "13",
+            "title": "Effectively Planning UX Design Projects",
+            "url": "http://uxdesign.smashingmagazine.com/2013/01/24/effectively-planning-ux-design-projects/"
+        }, {
+            "dateAdded": 1358288549496,
+            "id": "356",
+            "index": 24,
+            "parentId": "13",
+            "title": "Dribbble",
+            "url": "http://dribbble.com/shots?page=2"
+        }, {
+            "dateAdded": 1359480647085,
+            "id": "357",
+            "index": 25,
+            "parentId": "13",
+            "title": "Media Queries",
+            "url": "http://mediaqueri.es/"
+        }, {
+            "dateAdded": 1359518863767,
+            "id": "358",
+            "index": 26,
+            "parentId": "13",
+            "title": "Form Follows Function",
+            "url": "http://fff.cmiscm.com/#!/main"
+        }, {
+            "dateAdded": 1359845660823,
+            "id": "359",
+            "index": 27,
+            "parentId": "13",
+            "title": "wireframe.cc - minimal wireframing tool - for free",
+            "url": "http://wireframe.cc/"
+        }, {
+            "dateAdded": 1360192848338,
+            "id": "360",
+            "index": 28,
+            "parentId": "13",
+            "title": "Ethan Marcotte",
+            "url": "http://ethanmarcotte.com/#work"
+        }, {
+            "dateAdded": 1360609538108,
+            "id": "361",
+            "index": 29,
+            "parentId": "13",
+            "title": "Interaction Design Pattern Library",
+            "url": "http://www.welie.com/patterns/"
+        }, {
+            "dateAdded": 1360721812772,
+            "id": "362",
+            "index": 30,
+            "parentId": "13",
+            "title": "Moqups",
+            "url": "https://moqups.com/#!/"
+        }, {
+            "dateAdded": 1361394339586,
+            "id": "363",
+            "index": 31,
+            "parentId": "13",
+            "title": "Professional Photoshop Techniques And Tutorials | Smashing Magazine",
+            "url": "http://www.smashingmagazine.com/professional-photoshop-techniques-tutorials/"
+        }, {
+            "dateAdded": 1361409550950,
+            "id": "364",
+            "index": 32,
+            "parentId": "13",
+            "title": "Labsmedia's ClickHeat",
+            "url": "http://www.labsmedia.com/clickheat/index.html"
+        }, {
+            "dateAdded": 1361409571707,
+            "id": "365",
+            "index": 33,
+            "parentId": "13",
+            "title": "FiveSecondTest",
+            "url": "http://www.fivesecondtest.com/"
+        }, {
+            "dateAdded": 1361846294690,
+            "id": "366",
+            "index": 34,
+            "parentId": "13",
+            "title": "More Google Webfonts that Don’t Suck",
+            "url": "http://sachagreif.com/more-google-webfonts-that-dont-suck/"
+        }, {
+            "dateAdded": 1362438534176,
+            "id": "367",
+            "index": 35,
+            "parentId": "13",
+            "title": "Online Portfolios on Behance",
+            "url": "http://www.behance.net/"
+        }, {
+            "dateAdded": 1362456837884,
+            "id": "368",
+            "index": 36,
+            "parentId": "13",
+            "title": "iOS Human Interface Guidelines: Introduction",
+            "url": "http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40006556-CH1-SW1"
+        }, {
+            "dateAdded": 1362631531771,
+            "id": "369",
+            "index": 37,
+            "parentId": "13",
+            "title": "Designmodo - Web Design and Development Magazine",
+            "url": "http://designmodo.com/"
+        }, {
+            "dateAdded": 1363307628086,
+            "id": "370",
+            "index": 38,
+            "parentId": "13",
+            "title": "Pixel Acres",
+            "url": "http://f6design.com/journal/"
+        }, {
+            "dateAdded": 1363617435391,
+            "id": "371",
+            "index": 39,
+            "parentId": "13",
+            "title": "sarahjustine.com",
+            "url": "http://sarahjustine.com/"
+        }, {
+            "dateAdded": 1363643430540,
+            "id": "372",
+            "index": 40,
+            "parentId": "13",
+            "title": "iOS Mobile Patterns Library",
+            "url": "http://pttrns.com/"
+        }, {
+            "dateAdded": 1363644093677,
+            "id": "373",
+            "index": 41,
+            "parentId": "13",
+            "title": "What is UI Kit and Why You Should Use it - Designmodo",
+            "url": "http://designmodo.com/ui-kit-use/"
+        }, {
+            "dateAdded": 1363662321969,
+            "id": "374",
+            "index": 42,
+            "parentId": "13",
+            "title": "KeVon Ticer",
+            "url": "https://www.facebook.com/kevonticer"
+        }, {
+            "dateAdded": 1363757285314,
+            "id": "375",
+            "index": 43,
+            "parentId": "13",
+            "title": "The Main Tap › PatternTap",
+            "url": "http://patterntap.com/"
+        }, {
+            "dateAdded": 1364245805654,
+            "id": "376",
+            "index": 44,
+            "parentId": "13",
+            "title": "Dark Patterns - User Interfaces Designed to Trick People",
+            "url": "http://darkpatterns.org/"
+        }, {
+            "dateAdded": 1364246561854,
+            "id": "377",
+            "index": 45,
+            "parentId": "13",
+            "title": "Cool Infographics Blog",
+            "url": "http://www.coolinfographics.com/?currentPage=5"
+        }, {
+            "dateAdded": 1364248782820,
+            "id": "378",
+            "index": 46,
+            "parentId": "13",
+            "title": "Subtle Patterns",
+            "url": "http://subtlepatterns.com/"
+        }, {
+            "dateAdded": 1364269455458,
+            "id": "379",
+            "index": 47,
+            "parentId": "13",
+            "title": "WebZap - Photoshop panel plugin for web developers",
+            "url": "http://webzap.uiparade.com/#"
+        }, {
+            "dateAdded": 1364369772201,
+            "id": "380",
+            "index": 48,
+            "parentId": "13",
+            "title": " ",
+            "url": "http://ui-patterns.com/"
+        }, {
+            "dateAdded": 1364409349604,
+            "id": "381",
+            "index": 49,
+            "parentId": "13",
+            "title": "Co.Design: business + innovation + design",
+            "url": "http://www.fastcodesign.com/"
+        }, {
+            "dateAdded": 1365024974420,
+            "id": "382",
+            "index": 50,
+            "parentId": "13",
+            "title": "IKEA – Homemade is best",
+            "url": "http://demo.fb.se/e/ikea/homemade_is_best/"
+        }, {
+            "dateAdded": 1361846353201,
+            "id": "383",
+            "index": 51,
+            "parentId": "13",
+            "title": "Font­Friend",
+            "url": "javascript:(function()%20%7Bif(typeof%20jQuery%3D%3D%27undefined%27)%7Bvar%20jqit%3Ddocument.createElement(%27script%27)%3Bjqit.type%3D%27text/javascript%27%3Bjqit.src%3D%27//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js%27%3Bdocument.getElementsByTagName(%27head%27)%5B0%5D.appendChild(jqit)%3B%7D%20_my_script%3Ddocument.createElement(%27script%27)%3B_my_script.type%3D%27text/javascript%27%3B_my_script.src%3D%27//font-friend.googlecode.com/svn/trunk/font-friend.js%27%3Bdocument.getElementsByTagName(%27head%27)%5B0%5D.appendChild(_my_script)%3B%7D)()%3B"
+        }, {
+            "dateAdded": 1360257454290,
+            "id": "384",
+            "index": 52,
+            "parentId": "13",
+            "title": "960 Gridder",
+            "url": "javascript:(function()%7Bdocument.body.appendChild(document.createElement(%27script%27)).src%3D%27http://gridder.andreehansson.se/releases/latest/960.gridder.js%27%3B%7D)()%3B"
+        }, {
+            "dateAdded": 1365457043718,
+            "id": "385",
+            "index": 53,
+            "parentId": "13",
+            "title": "UnderConsideration LLC",
+            "url": "http://underconsideration.com/"
+        }, {
+            "dateAdded": 1365457539119,
+            "id": "388",
+            "index": 54,
+            "parentId": "13",
+            "title": "New York City Transit Authority Graphics Standards Manual",
+            "url": "http://thestandardsmanual.com/"
+        }, {
+            "dateAdded": 1365629645821,
+            "id": "389",
+            "index": 55,
+            "parentId": "13",
+            "title": "Awwwards - Website Awards - Best Web Design Trends",
+            "url": "http://www.awwwards.com/"
+        }, {
+            "dateAdded": 1365629672426,
+            "id": "392",
+            "index": 56,
+            "parentId": "13",
+            "title": "The Best Designs / Best Web Design Awards & CSS Gallery",
+            "url": "http://www.thebestdesigns.com/"
+        }, {
+            "dateAdded": 1366054609560,
+            "id": "393",
+            "index": 57,
+            "parentId": "13",
+            "title": "Free High Resolution Textures - gallery",
+            "url": "http://lostandtaken.com/gallery"
+        }, {
+            "dateAdded": 1366518826348,
+            "id": "394",
+            "index": 58,
+            "parentId": "13",
+            "title": "iconmonstr - Free simple icons for your next project",
+            "url": "http://iconmonstr.com/"
+        }, {
+            "dateAdded": 1367445200031,
+            "id": "395",
+            "index": 59,
+            "parentId": "13",
+            "title": "French Cuisse",
+            "url": "http://www.frenchcuisse.com/"
+        }, {
+            "dateAdded": 1367451459609,
+            "id": "396",
+            "index": 60,
+            "parentId": "13",
+            "title": "French Cuisse",
+            "url": "http://www.frenchcuisse.com/#"
+        }, {
+            "dateAdded": 1367454678719,
+            "id": "397",
+            "index": 61,
+            "parentId": "13",
+            "title": "2013 Color Trends on the Web | Tips",
+            "url": "http://webdesignledger.com/tips/2013-color-trends-on-the-web"
+        }, {
+            "dateAdded": 1367801440730,
+            "id": "398",
+            "index": 62,
+            "parentId": "13",
+            "title": "OSKOUI+OSKOUI Blog",
+            "url": "http://blog.oskoui-oskoui.com/"
+        }, {
+            "dateAdded": 1370141963348,
+            "id": "399",
+            "index": 63,
+            "parentId": "13",
+            "title": "Taking the “Erm..” Out of Ems | Webdesigntuts+",
+            "url": "http://webdesign.tutsplus.com/articles/typography-articles/taking-the-erm-out-of-ems/?utm_source=CSS-Weekly&utm_campaign=Issue-59&utm_medium=web"
+        }, {
+            "dateAdded": 1370301707011,
+            "id": "400",
+            "index": 64,
+            "parentId": "13",
+            "title": "The League of Moveable Type",
+            "url": "http://www.theleagueofmoveabletype.com/"
+        }, {
+            "dateAdded": 1370491689369,
+            "id": "401",
+            "index": 65,
+            "parentId": "13",
+            "title": "SIX UX",
+            "url": "http://sixux.com/"
+        }, {
+            "dateAdded": 1371612866089,
+            "id": "402",
+            "index": 66,
+            "parentId": "13",
+            "title": "Mobile Patterns",
+            "url": "http://www.mobile-patterns.com/"
+        }, {
+            "dateAdded": 1365628916738,
+            "id": "403",
+            "index": 67,
+            "parentId": "13",
+            "title": "siteInspire - Web Design Inspiration",
+            "url": "http://www.siteinspire.com/"
+        }, {
+            "dateAdded": 1372186496598,
+            "id": "404",
+            "index": 68,
+            "parentId": "13",
+            "title": "Visual News - The Cure For Eyeball Boredom",
+            "url": "http://www.visualnews.com/"
+        }, {
+            "dateAdded": 1374759641374,
+            "id": "405",
+            "index": 69,
+            "parentId": "13",
+            "title": "Butterick’s Practical Typography",
+            "url": "http://practicaltypography.com/"
+        }, {
+            "dateAdded": 1375509218931,
+            "id": "406",
+            "index": 70,
+            "parentId": "13",
+            "title": "Red Pen",
+            "url": "http://redpen.io/"
+        }, {
+            "dateAdded": 1377136983295,
+            "id": "407",
+            "index": 71,
+            "parentId": "13",
+            "title": "The iOS 7 Design Cheat Sheet - Ivo Mynttinen / User Interface Designer",
+            "url": "http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/"
+        }, {
+            "dateAdded": 1380701038015,
+            "id": "408",
+            "index": 72,
+            "parentId": "13",
+            "title": "How to get a job as a designer without going to design school — What I Learned Today — Medium",
+            "url": "https://medium.com/what-i-learned-today/bad8cdb67068"
+        }, {
+            "dateAdded": 1384924993220,
+            "id": "409",
+            "index": 73,
+            "parentId": "13",
+            "title": "New High-Quality Free Fonts | Smashing Magazine",
+            "url": "http://www.smashingmagazine.com/2012/07/20/free-font-round-up/"
+        }, {
+            "dateAdded": 1390205126819,
+            "id": "410",
+            "index": 74,
+            "parentId": "13",
+            "title": "How to be Good at Graphic Design | Tony Pritchard's Blog",
+            "url": "http://tonypritchard.wordpress.com/2013/04/13/how-to-be-good-at-graphic-design/"
+        }, {
+            "dateAdded": 1390346973331,
+            "id": "411",
+            "index": 75,
+            "parentId": "13",
+            "title": "25 Typography Tools for Designers | Code Geekz",
+            "url": "http://codegeekz.com/typography-tools-for-designers/"
+        }, {
+            "dateAdded": 1390551076560,
+            "id": "412",
+            "index": 76,
+            "parentId": "13",
+            "title": "Design Milk: Design Blog with Interior Design, Modern Furniture, & Art",
+            "url": "http://design-milk.com/"
+        }, {
+            "dateAdded": 1392020893858,
+            "id": "413",
+            "index": 77,
+            "parentId": "13",
+            "title": "Typotheque type foundry - high quality fonts for print and web",
+            "url": "https://www.typotheque.com/"
+        }, {
+            "dateAdded": 1392773984154,
+            "id": "414",
+            "index": 78,
+            "parentId": "13",
+            "title": "Transparent Textures",
+            "url": "http://www.transparenttextures.com/"
+        }, {
+            "dateAdded": 1393909209476,
+            "id": "415",
+            "index": 79,
+            "parentId": "13",
+            "title": "The Best of Fonts In Use in 2013 - Fonts In Use",
+            "url": "http://fontsinuse.com/uses/6033/the-best-of-fonts-in-use-in-2013"
+        }, {
+            "dateAdded": 1394388497753,
+            "id": "416",
+            "index": 80,
+            "parentId": "13",
+            "title": "10 Simple Techniques For Photoshop Beginners",
+            "url": "http://gizmodo.com/10-simple-techniques-for-photoshop-beginners-1521239440?utm_campaign=socialflow_gizmodo_facebook&utm_source=gizmodo_facebook&utm_medium=socialflow"
+        }, {
+            "dateAdded": 1395377136133,
+            "id": "417",
+            "index": 81,
+            "parentId": "13",
+            "title": "Brick. Webfonts that actually look good.",
+            "url": "http://brick.im/"
+        }, {
+            "dateAdded": 1397970879852,
+            "id": "418",
+            "index": 82,
+            "parentId": "13",
+            "title": "How to Find Stock Photos That Don't Suck - DesignRope",
+            "url": "http://designrope.com/design/find-stock-photos-dont-suck/"
+        }, {
+            "dateAdded": 1400043456844,
+            "id": "419",
+            "index": 83,
+            "parentId": "13",
+            "title": "Fantastic Fonts and Where to Find Them – Source Inside |",
+            "url": "http://platowebdesign.com/articles/fonts/"
+        }, {
+            "dateAdded": 1406866673563,
+            "id": "420",
+            "index": 84,
+            "parentId": "13",
+            "title": "36 sites to download fonts for free | Typography | Creative Bloq",
+            "url": "http://www.creativebloq.com/typography/download-free-fonts-resources-912696"
+        }, {
+            "dateAdded": 1435128734568,
+            "id": "808",
+            "index": 85,
+            "parentId": "13",
+            "title": "A Pocket Guide to Master Every Day’s Typographic Adventures",
+            "url": "http://www.typogui.de/"
+        }, {
+            "dateAdded": 1435186780114,
+            "id": "811",
+            "index": 86,
+            "parentId": "13",
+            "title": "Butterick’s Practical Typography",
+            "url": "http://practicaltypography.com/typography-in-ten-minutes.html"
+        }, {
+            "dateAdded": 1445658481972,
+            "id": "892",
+            "index": 87,
+            "parentId": "13",
+            "title": "Free Stock Photos · Search 20+ sites with LibreStock",
+            "url": "http://librestock.com/"
+        }, {
+            "dateAdded": 1446062844406,
+            "id": "898",
+            "index": 88,
+            "parentId": "13",
+            "title": "My Secret to Setting a Balanced Block of Copy | TypeEd: Training on the Fundamentals of Typography | Downtown Los Angeles Graphic Design Classes",
+            "url": "http://type-ed.com/2015/10/01/secret-setting-balanced-block-copy/"
+        }, {
+            "dateAdded": 1446762958715,
+            "id": "903",
+            "index": 89,
+            "parentId": "13",
+            "title": "Effectively Planning UX Design Projects – Smashing Magazine",
+            "url": "http://www.smashingmagazine.com/2013/01/effectively-planning-ux-design-projects/"
+        }, {
+            "dateAdded": 1447433767798,
+            "id": "910",
+            "index": 90,
+            "parentId": "13",
+            "title": "UX Methods & Deliverables — uxdesign.cc",
+            "url": "http://uxdesign.cc/ux-methods-deliverables/"
+        }, {
+            "dateAdded": 1450396727707,
+            "id": "933",
+            "index": 91,
+            "parentId": "13",
+            "title": "Beyond the Style Guide ◆ 24 ways",
+            "url": "https://24ways.org/2015/beyond-the-style-guide/"
+        }, {
+            "dateAdded": 1452792902221,
+            "id": "942",
+            "index": 92,
+            "parentId": "13",
+            "title": "Taming the Elephant: Design Critiques With Non-designers (plus a printable cheat sheet) | Viget",
+            "url": "https://viget.com/inspire/design-critiques"
+        }, {
+            "dateAdded": 1452905175122,
+            "id": "943",
+            "index": 93,
+            "parentId": "13",
+            "title": "How to give feedback (without driving your designer insane!) - Triggers & Sparks",
+            "url": "http://triggersandsparks.com/blog/how-to-give-feedback-without-driving-your-designer-insane/"
+        }, {
+            "dateAdded": 1452905180082,
+            "id": "944",
+            "index": 94,
+            "parentId": "13",
+            "title": "https://viget.com/uploads/file/CritiqueCheatsheet.pdf",
+            "url": "https://viget.com/uploads/file/CritiqueCheatsheet.pdf"
+        }, {
+            "dateAdded": 1454614458857,
+            "id": "952",
+            "index": 95,
+            "parentId": "13",
+            "title": "Making Rounded Rectangles Look Great ~ Flyosity by Mike Rundle",
+            "url": "http://flyosity.com/design/making-rounded-rectangles-look-great.php"
+        }, {
+            "dateAdded": 1454614512454,
+            "id": "953",
+            "index": 96,
+            "parentId": "13",
+            "title": "Crafting Subtle & Realistic User Interfaces ~ Flyosity by Mike Rundle",
+            "url": "http://flyosity.com/tutorial/crafting-subtle-realistic-user-interfaces.php"
+        }, {
+            "dateAdded": 1454622475355,
+            "id": "955",
+            "index": 97,
+            "parentId": "13",
+            "title": "6 Great Contemporary Alternatives to Helvetica — Medium",
+            "url": "https://medium.com/@iHrvoje/6-great-contemporary-alternatives-to-helvetica-67a7d400118f#.bmz85pwg4"
+        }, {
+            "dateAdded": 1454951921136,
+            "id": "957",
+            "index": 98,
+            "parentId": "13",
+            "title": "Clean Button Design – Tutorial | Ui Parade | User Interface Design Inspiration",
+            "url": "http://www.uiparade.com/portfolio/clean-button-design-tutorial/"
+        }, {
+            "dateAdded": 1454951930403,
+            "id": "958",
+            "index": 99,
+            "parentId": "13",
+            "title": "How to Create Buttons in Photoshop and Adobe Muse - Envato Tuts+ Web Design Tutorial",
+            "url": "http://webdesign.tutsplus.com/tutorials/how-to-create-buttons-in-photoshop-and-adobe-muse--cms-22142"
+        }, {
+            "dateAdded": 1454951936996,
+            "id": "959",
+            "index": 100,
+            "parentId": "13",
+            "title": "Design a Beautifully Detailed Web Button - Envato Tuts+ Web Design Article",
+            "url": "http://webdesign.tutsplus.com/articles/design-a-beautifully-detailed-web-button--webdesign-2098"
+        }, {
+            "dateAdded": 1454952423760,
+            "id": "960",
+            "index": 101,
+            "parentId": "13",
+            "title": "Design Criticism and the Creative Process · An A List Apart Article",
+            "url": "http://alistapart.com/article/design-criticism-creative-process"
+        }, {
+            "dateAdded": 1456160752974,
+            "id": "967",
+            "index": 102,
+            "parentId": "13",
+            "title": "Using Shared Styles and Symbols in Sketch — Design + Sketch App — Medium",
+            "url": "https://medium.com/@aaron10buuren/using-shared-styles-and-symbols-in-sketch-8cab4650dc55#.rhdy8vqbf"
+        }, {
+            "dateAdded": 1456940114006,
+            "id": "982",
+            "index": 103,
+            "parentId": "13",
+            "title": "Why is Vertical Rhythm an Important Typography Practice? | Zell Liew's blog about web design and development",
+            "url": "http://zellwk.com/blog/why-vertical-rhythms/"
+        }, {
+            "dateAdded": 1457482303450,
+            "id": "985",
+            "index": 104,
+            "parentId": "13",
+            "title": "Freebie: Google Material Design Shadow Helper — Medium",
+            "url": "https://medium.com/@Florian/freebie-google-material-design-shadow-helper-2a0501295a2d#.ftgsjmrtk"
+        }, {
+            "dateAdded": 1457483955154,
+            "id": "986",
+            "index": 105,
+            "parentId": "13",
+            "title": "7 Rules for Creating Gorgeous UI (Part 1) — Medium",
+            "url": "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.cssc2o565"
+        }, {
+            "dateAdded": 1458258059103,
+            "id": "999",
+            "index": 106,
+            "parentId": "13",
+            "title": "LOL Colors - Curated color palette inspiration",
+            "url": "http://www.lolcolors.com/"
+        }],
+        "dateAdded": 1431073122359,
+        "dateGroupModified": 1458258059103,
+        "id": "13",
+        "index": 12,
+        "parentId": "18",
+        "title": "Design"
+    }, {
+        "children": [{
+            "dateAdded": 1392610966911,
+            "id": "203",
+            "index": 0,
+            "parentId": "200",
+            "title": "Visual Representation",
+            "url": "http://www.interaction-design.org/encyclopedia/visual_representation.html"
+        }, {
+            "dateAdded": 1392610973904,
+            "id": "204",
+            "index": 1,
+            "parentId": "200",
+            "title": "Contextual Design",
+            "url": "http://www.interaction-design.org/encyclopedia/contextual_design.html"
+        }, {
+            "dateAdded": 1392610978645,
+            "id": "205",
+            "index": 2,
+            "parentId": "200",
+            "title": "Formal Methods",
+            "url": "http://www.interaction-design.org/encyclopedia/formal_methods.html"
+        }, {
+            "dateAdded": 1392610982654,
+            "id": "206",
+            "index": 3,
+            "parentId": "200",
+            "title": "Personas",
+            "url": "http://www.interaction-design.org/encyclopedia/personas.html"
+        }, {
+            "dateAdded": 1392610985599,
+            "id": "207",
+            "index": 4,
+            "parentId": "200",
+            "title": "Ethnography",
+            "url": "http://www.interaction-design.org/encyclopedia/ethnography.html"
+        }, {
+            "dateAdded": 1392610988965,
+            "id": "208",
+            "index": 5,
+            "parentId": "200",
+            "title": "User Interface Design Adaptation",
+            "url": "http://www.interaction-design.org/encyclopedia/user_interface_design_adaptation.html"
+        }, {
+            "dateAdded": 1392610993770,
+            "id": "209",
+            "index": 6,
+            "parentId": "200",
+            "title": "Emotion and website design",
+            "url": "http://www.interaction-design.org/encyclopedia/emotion_and_website_design.html"
+        }],
+        "dateAdded": 1392610965259,
+        "dateGroupModified": 1431073122378,
+        "id": "200",
+        "index": 13,
+        "parentId": "18",
+        "title": "IxD Foundation"
+    }, {
+        "dateAdded": 1393231852992,
+        "id": "201",
+        "index": 14,
+        "parentId": "18",
+        "title": "When to Use Which User Experience Research Methods",
+        "url": "http://www.nngroup.com/articles/which-ux-research-methods/"
+    }, {
+        "dateAdded": 1393313860550,
+        "id": "202",
+        "index": 15,
+        "parentId": "18",
+        "title": "Free mobile and web prototyping for designers | Marvel",
+        "url": "https://www.marvelapp.com/"
+    }, {
+        "dateAdded": 1433054769099,
+        "id": "798",
+        "index": 16,
+        "parentId": "18",
+        "title": "The Ninja Skill for UX Designers — Medium",
+        "url": "https://medium.com/@mollyinglish/the-ninja-skill-for-ux-designers-25f314f8f76c"
+    }, {
+        "dateAdded": 1436495840911,
+        "id": "814",
+        "index": 17,
+        "parentId": "18",
+        "title": "UX Handy | Daily handpicked UX articles",
+        "url": "http://www.uxhandy.com/"
+    }, {
+        "dateAdded": 1436647291132,
+        "id": "815",
+        "index": 18,
+        "parentId": "18",
+        "title": "GoodUI",
+        "url": "https://www.goodui.org/"
+    }, {
+        "dateAdded": 1437179905843,
+        "id": "822",
+        "index": 19,
+        "parentId": "18",
+        "title": "www.typewolf.com/assets/7844238711/typewolf_10_best_free_fonts.pdf",
+        "url": "http://www.typewolf.com/assets/7844238711/typewolf_10_best_free_fonts.pdf"
+    }, {
+        "dateAdded": 1437505903955,
+        "id": "824",
+        "index": 20,
+        "parentId": "18",
+        "title": "The 4 Essential UX Documents Every Designer Needs - Designmodo",
+        "url": "http://designmodo.com/ux-documents"
+    }, {
+        "dateAdded": 1438234365508,
+        "id": "831",
+        "index": 21,
+        "parentId": "18",
+        "title": "UX Portfolios",
+        "url": "http://uxdesignweekly.com/ux-resources/ux-portfolios/"
+    }, {
+        "dateAdded": 1438664684776,
+        "id": "833",
+        "index": 22,
+        "parentId": "18",
+        "title": "How to Create User Stories, Scenarios, and Cases",
+        "url": "https://www.newfangled.com/how-to-tell-the-users-story/"
+    }, {
+        "dateAdded": 1439529981983,
+        "id": "837",
+        "index": 23,
+        "parentId": "18",
+        "title": "3 Uses for Analytics in User Experience Practice",
+        "url": "http://www.nngroup.com/articles/analytics-user-experience/"
+    }, {
+        "dateAdded": 1439529990663,
+        "id": "838",
+        "index": 24,
+        "parentId": "18",
+        "title": "5 Ways To Use Google Analytics for Your UX Research",
+        "url": "http://www.sitepoint.com/5-ways-use-google-analytics-ux-research/"
+    }, {
+        "dateAdded": 1440275550867,
+        "id": "841",
+        "index": 25,
+        "parentId": "18",
+        "title": "Interaction Modeling « Boxes and Arrows",
+        "url": "http://boxesandarrows.com/interaction-modeling/"
+    }, {
+        "dateAdded": 1440740486243,
+        "id": "842",
+        "index": 26,
+        "parentId": "18",
+        "title": "5 Copywriting Tips That Can Dramatically Improve Your UX :: UXmatters",
+        "url": "http://www.uxmatters.com/mt/archives/2013/12/5-copywriting-tips-that-can-dramatically-improve-your-ux.php"
+    }, {
+        "dateAdded": 1442380141155,
+        "id": "860",
+        "index": 27,
+        "parentId": "18",
+        "title": "Measuring Success at JotForm — JotForm — Form Builder — Medium",
+        "url": "https://medium.com/jotform-form-builder/measuring-success-at-jotform-f92508cbd577"
+    }, {
+        "dateAdded": 1452116567960,
+        "id": "937",
+        "index": 28,
+        "parentId": "18",
+        "title": "How and why to create a pattern library",
+        "url": "https://boagworld.com/design/pattern-library/"
+    }, {
+        "dateAdded": 1452116607708,
+        "id": "938",
+        "index": 29,
+        "parentId": "18",
+        "title": "Fight For UX | Fight For UX",
+        "url": "http://fightforux.com/"
+    }, {
+        "dateAdded": 1453687660991,
+        "id": "946",
+        "index": 30,
+        "parentId": "18",
+        "title": "The Ultimate List of UX Topics All Beginners Should Know | UX Beginner",
+        "url": "http://www.uxbeginner.com/ultimate-list-of-ux-topics-all-beginners-should-know/"
+    }, {
+        "dateAdded": 1454024868171,
+        "id": "950",
+        "index": 31,
+        "parentId": "18",
+        "title": "Ultimate guide to table UI patterns : Janko At Warp Speed",
+        "url": "http://www.jankoatwarpspeed.com/ultimate-guide-to-table-ui-patterns/"
+    }, {
+        "dateAdded": 1454355168942,
+        "id": "951",
+        "index": 32,
+        "parentId": "18",
+        "title": "Preventing User Errors: Avoiding Unconscious Slips",
+        "url": "https://www.nngroup.com/articles/slips/"
+    }, {
+        "dateAdded": 1454952043052,
+        "id": "961",
+        "index": 33,
+        "parentId": "18",
+        "title": "Pattern Lab",
+        "url": "http://demo.patternlab.io/?p=all"
+    }, {
+        "dateAdded": 1454953009121,
+        "id": "962",
+        "index": 34,
+        "parentId": "18",
+        "title": "Applied UX Strategy, Part 1: Maturity Models :: UXmatters",
+        "url": "http://www.uxmatters.com/mt/archives/2013/12/applied-ux-strategy-part-1-maturity-models.php"
+    }, {
+        "dateAdded": 1454953029417,
+        "id": "963",
+        "index": 35,
+        "parentId": "18",
+        "title": "Applied UX Strategy, Part 2: The Product Designer :: UXmatters",
+        "url": "http://www.uxmatters.com/mt/archives/2015/02/applied-ux-strategy-part-2-the-product-designer.php"
+    }, {
+        "dateAdded": 1455754736230,
+        "id": "965",
+        "index": 36,
+        "parentId": "18",
+        "title": "Designing User Interfaces For Business Web Applications – Smashing Magazine",
+        "url": "https://www.smashingmagazine.com/2010/02/designing-user-interfaces-for-business-web-applications/"
+    }, {
+        "dateAdded": 1455917659863,
+        "id": "966",
+        "index": 37,
+        "parentId": "18",
+        "title": "Filtering UI: A Horizontal Toolbar Can Outperform the Traditional Sidebar - Articles - Baymard Institute",
+        "url": "http://baymard.com/blog/horizontal-filtering-sorting-design"
+    }, {
+        "dateAdded": 1456338071407,
+        "id": "969",
+        "index": 38,
+        "parentId": "18",
+        "title": "Top 10 Application-Design Mistakes",
+        "url": "https://www.nngroup.com/articles/top-10-application-design-mistakes/"
+    }, {
+        "dateAdded": 1456428801813,
+        "id": "970",
+        "index": 39,
+        "parentId": "18",
+        "title": "How to build an experience map — Medium",
+        "url": "https://medium.com/@wnialloconnor/how-to-build-an-experience-map-5e55b7ee4f32#.xna6ev6li"
+    }, {
+        "dateAdded": 1456428814287,
+        "id": "971",
+        "index": 40,
+        "parentId": "18",
+        "title": "UX Best Practice - Better Close Your Eyes",
+        "url": "http://blog.usabilitytools.com/ux-best-practice/"
+    }, {
+        "dateAdded": 1456446608703,
+        "id": "972",
+        "index": 41,
+        "parentId": "18",
+        "title": "Explore the Book » Designing Web Interfaces",
+        "url": "http://designingwebinterfaces.com/explore"
+    }, {
+        "dateAdded": 1456446641025,
+        "id": "973",
+        "index": 42,
+        "parentId": "18",
+        "title": "User Intent Affects Filter Design",
+        "url": "https://www.nngroup.com/articles/applying-filters/?utm_campaign=UX_Design_Weekly_Issue_72&utm_medium=email&utm_source=uxdesignweekly.com"
+    }, {
+        "children": [{
+            "dateAdded": 1369405808590,
+            "id": "210",
+            "index": 0,
+            "parentId": "17",
+            "title": "User Testing, ZURBword",
+            "url": "http://zurb.com/word/user-testing"
+        }, {
+            "dateAdded": 1369406000055,
+            "id": "211",
+            "index": 1,
+            "parentId": "17",
+            "title": "Clue – A fun and easy way to test what people remember on your website.",
+            "url": "http://www.clueapp.com/"
+        }, {
+            "dateAdded": 1369406006677,
+            "id": "212",
+            "index": 2,
+            "parentId": "17",
+            "title": "5-Second Tests: Measuring Your Site's Content Pages",
+            "url": "http://www.uie.com/articles/five_second_test/"
+        }, {
+            "dateAdded": 1369406010687,
+            "id": "213",
+            "index": 3,
+            "parentId": "17",
+            "title": "Design Surveys with Verify",
+            "url": "http://verifyapp.com/"
+        }, {
+            "dateAdded": 1369406414441,
+            "id": "214",
+            "index": 4,
+            "parentId": "17",
+            "title": "ZURB Word | A glossary of product design terms",
+            "url": "http://zurb.com/word"
+        }, {
+            "dateAdded": 1369880369239,
+            "id": "215",
+            "index": 5,
+            "parentId": "17",
+            "title": "UX Design: What Features Should You Include When Building Your Product? @Technori",
+            "url": "http://technori.com/2013/02/3218-ux-design-product-features-to-include/"
+        }, {
+            "dateAdded": 1369880386337,
+            "id": "216",
+            "index": 6,
+            "parentId": "17",
+            "title": "The Starter League UX Design: Top Visual Design Techniques and Research Methods @Technori",
+            "url": "http://technori.com/2013/01/3079-starter-league-ux-design-week-2/"
+        }, {
+            "dateAdded": 1369880390826,
+            "id": "217",
+            "index": 7,
+            "parentId": "17",
+            "title": "UX Tools You Can Use to Build Your Best Product @Technori",
+            "url": "http://technori.com/2013/02/3171-starter-league-ux-design-week-4/"
+        }, {
+            "dateAdded": 1370283575302,
+            "id": "218",
+            "index": 8,
+            "parentId": "17",
+            "title": "7 Core Ideas about Personas and The User Experience: Measuring Usability",
+            "url": "http://www.measuringusability.com/blog/personas-ux.php"
+        }, {
+            "dateAdded": 1370283615180,
+            "id": "219",
+            "index": 9,
+            "parentId": "17",
+            "title": "Measuring Usability: Quantitative Usability, Statistics and Six-Sigma",
+            "url": "http://www.measuringusability.com/index.php"
+        }, {
+            "dateAdded": 1371749910932,
+            "id": "220",
+            "index": 10,
+            "parentId": "17",
+            "title": "Prototype construction basics with Axure | Tutorial | .net magazine",
+            "url": "http://www.netmagazine.com/tutorials/prototype-construction-basics-axure"
+        }, {
+            "dateAdded": 1371749916694,
+            "id": "221",
+            "index": 11,
+            "parentId": "17",
+            "title": "Mastering the basics of Axure - Totalwireframe",
+            "url": "http://www.totalwireframe.com/tutorial_complete.html"
+        }, {
+            "dateAdded": 1383274453200,
+            "id": "222",
+            "index": 12,
+            "parentId": "17",
+            "title": "Meaningful Transitions // Home",
+            "url": "http://www.ui-transitions.com/#categories"
+        }, {
+            "dateAdded": 1383694144851,
+            "id": "223",
+            "index": 13,
+            "parentId": "17",
+            "title": "Easing Functions Cheat Sheet",
+            "url": "http://easings.net/"
+        }, {
+            "dateAdded": 1389157758179,
+            "id": "224",
+            "index": 14,
+            "parentId": "17",
+            "title": "A badass list of frontend development resources I collected over time.",
+            "url": "https://gist.github.com/dypsilon/5819504"
+        }, {
+            "dateAdded": 1390203796131,
+            "id": "225",
+            "index": 15,
+            "parentId": "17",
+            "title": "The IxD Library - A collection of materials related to Interaction Design",
+            "url": "http://theixdlibrary.com/"
+        }],
+        "dateAdded": 1369405806676,
+        "dateGroupModified": 1431073122359,
+        "id": "17",
+        "index": 43,
+        "parentId": "18",
+        "title": "HCI"
+    }, {
+        "children": [{
+            "dateAdded": 1372009634470,
+            "id": "158",
+            "index": 0,
+            "parentId": "20",
+            "title": "Ratchet",
+            "url": "http://maker.github.io/ratchet/"
+        }, {
+            "dateAdded": 1362187877672,
+            "id": "159",
+            "index": 1,
+            "parentId": "20",
+            "title": "UI Faces",
+            "url": "http://uifaces.com/"
+        }, {
+            "dateAdded": 1372705006668,
+            "id": "160",
+            "index": 2,
+            "parentId": "20",
+            "title": "Buttons - A CSS button library built with Sass and Compass",
+            "url": "http://alexwolfe.github.io/Buttons/?utm_source=CSS-Weekly&utm_campaign=Issue-65&utm_medium=web"
+        }, {
+            "dateAdded": 1376196430468,
+            "id": "161",
+            "index": 3,
+            "parentId": "20",
+            "title": "Random User Generator",
+            "url": "http://randomuser.me/"
+        }, {
+            "dateAdded": 1388294910153,
+            "id": "162",
+            "index": 4,
+            "parentId": "20",
+            "title": "Framer - Prototyping Tool",
+            "url": "http://www.framerjs.com/"
+        }, {
+            "dateAdded": 1388294934932,
+            "id": "163",
+            "index": 5,
+            "parentId": "20",
+            "title": "Flinto – iPhone and iPad Prototyping",
+            "url": "https://www.flinto.com/"
+        }, {
+            "dateAdded": 1389724690157,
+            "id": "164",
+            "index": 6,
+            "parentId": "20",
+            "title": "Design Strategy — Creating Wireframes And Prototypes With InDesign | Smashing Magazine",
+            "url": "http://www.smashingmagazine.com/2013/03/07/creating-wireframes-and-prototypes-with-indesign/"
+        }, {
+            "dateAdded": 1390425908788,
+            "id": "165",
+            "index": 7,
+            "parentId": "20",
+            "title": "iPhone Wireframe Templates for Sketching | Interactive Logic",
+            "url": "http://interactivelogic.net/wp/2009/09/iphone-wireframe-templates/"
+        }, {
+            "dateAdded": 1390764385534,
+            "id": "166",
+            "index": 8,
+            "parentId": "20",
+            "title": "Teehan+Lax - Defining Experience",
+            "url": "http://www.teehanlax.com/"
+        }, {
+            "dateAdded": 1392274741584,
+            "id": "167",
+            "index": 9,
+            "parentId": "20",
+            "title": "JsonStub",
+            "url": "http://jsonstub.com/"
+        }, {
+            "dateAdded": 1392713231683,
+            "id": "168",
+            "index": 10,
+            "parentId": "20",
+            "title": "15 Best Bootstrap Tools for Designers | Design Geekz",
+            "url": "http://designgeekz.com/15-best-bootstrap-tools-for-designers/"
+        }],
+        "dateAdded": 1372009632812,
+        "dateGroupModified": 1454542546332,
+        "id": "20",
+        "index": 44,
+        "parentId": "18",
+        "title": "Prototyping"
+    }, {
+        "dateAdded": 1456765919818,
+        "id": "977",
+        "index": 45,
+        "parentId": "18",
+        "title": "Rich Internet Application Screen Design | UX Magazine",
+        "url": "https://uxmag.com/articles/rich-internet-application-screen-design"
+    }, {
+        "dateAdded": 1456939772226,
+        "id": "981",
+        "index": 46,
+        "parentId": "18",
+        "title": "Service Design | Cooper Journal",
+        "url": "http://www.cooper.com/topics/service-design/"
+    }, {
+        "dateAdded": 1457114938351,
+        "id": "983",
+        "index": 47,
+        "parentId": "18",
+        "title": "Defining an Interaction Model: The Cornerstone of Application Design :: UXmatters",
+        "url": "http://www.uxmatters.com/mt/archives/2012/01/defining-an-interaction-model-the-cornerstone-of-application-design.php"
+    }, {
+        "dateAdded": 1457370159584,
+        "id": "984",
+        "index": 48,
+        "parentId": "18",
+        "title": "Quality Wireframes Inspiration — Muzli -Design Inspiration — Medium",
+        "url": "https://medium.com/muzli-design-inspiration/quality-wireframes-inspiration-a91f5d78be37#.ciy9wr8vr"
+    }, {
+        "dateAdded": 1457651509926,
+        "id": "989",
+        "index": 49,
+        "parentId": "18",
+        "title": "Refining Data Tables :: UXmatters",
+        "url": "http://www.uxmatters.com/mt/archives/2006/08/refining-data-tables.php"
+    }, {
+        "dateAdded": 1457722136449,
+        "id": "990",
+        "index": 50,
+        "parentId": "18",
+        "title": "Button | Semantic UI",
+        "url": "http://semantic-ui.com/elements/button.html"
+    }, {
+        "dateAdded": 1457722139227,
+        "id": "991",
+        "index": 51,
+        "parentId": "18",
+        "title": "Bikesoup 2.0 on Web Design Served",
+        "url": "http://www.webdesignserved.com/gallery/Bikesoup-20/8105189"
+    }, {
+        "dateAdded": 1457743978567,
+        "id": "992",
+        "index": 52,
+        "parentId": "18",
+        "title": "Lecture 1: What is Product Design? — Intro to Digital Product Design — Medium",
+        "url": "https://medium.com/intro-to-digital-product-design/lecture-1-what-is-product-design-c290bfe799a9?ref=uxdesignweekly#.evxarysh0"
+    }, {
+        "dateAdded": 1457744121150,
+        "id": "993",
+        "index": 53,
+        "parentId": "18",
+        "title": "Using Shared Styles and Symbols in Sketch — Design + Sketch App — Medium",
+        "url": "https://medium.com/sketch-app-sources/using-shared-styles-and-symbols-in-sketch-8cab4650dc55#.iunuz530u"
+    }, {
+        "dateAdded": 1457989200486,
+        "id": "996",
+        "index": 54,
+        "parentId": "18",
+        "title": "Design Explosions — Medium",
+        "url": "https://designexplosions.academy/"
+    }, {
+        "dateAdded": 1458084008963,
+        "id": "997",
+        "index": 55,
+        "parentId": "18",
+        "title": "Designing for Various UI States — Medium",
+        "url": "https://medium.com/@_mikehlee/designing-for-various-states-823816e49c8d#.6m84631ht"
+    }, {
+        "dateAdded": 1458258042677,
+        "id": "998",
+        "index": 56,
+        "parentId": "18",
+        "title": "The Best Designer Tools Collection — Muzli -Design Inspiration — Medium",
+        "url": "https://medium.com/muzli-design-inspiration/the-best-designer-tools-collection-53651efa4975#.g5lh9qt2h"
+    }, {
+        "dateAdded": 1458337846849,
+        "id": "1000",
+        "index": 57,
+        "parentId": "18",
+        "title": "Grid System | MailChimp",
+        "url": "http://ux.mailchimp.com/patterns"
+    }, {
+        "dateAdded": 1458337856681,
+        "id": "1001",
+        "index": 58,
+        "parentId": "18",
+        "title": "Transition | Semantic UI",
+        "url": "http://semantic-ui.com/modules/transition.html"
+    }],
+    "dateAdded": 1389570289453,
+    "dateGroupModified": 1458337856681,
+    "id": "18",
+    "index": 9,
+    "parentId": "1",
+    "title": "UX"
+}];

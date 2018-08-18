@@ -1,0 +1,7 @@
+ul li {
+    display: inline-block;
+}
+
+.bookmark-grid {
+    padding: 1.5rem 2rem;
+}

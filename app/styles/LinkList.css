@@ -1,0 +1,22 @@
+ul li {
+    margin-bottom: 1rem;
+}
+
+ul li:last-child {
+    margin-bottom: 0;
+}
+
+.link-list {
+    width: 264px;
+}
+
+ul {
+    width: 264px;
+}
+
+.list-title {
+    font-size: 1.5rem;
+    color: #1C8D99;
+    font-weight: 700;
+    font-style: italic;
+}

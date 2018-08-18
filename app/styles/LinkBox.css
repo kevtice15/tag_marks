@@ -1,0 +1,34 @@
+.link-box {
+    max-width: 264px;
+    padding: .5rem;
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    list-style-type: none;
+}
+
+.link-box:hover {
+    border: 1px solid #FA7B90;
+}
+
+.link-text {
+    font-size: 1rem;
+    color: #3C9099;
+    line-height: 1.5rem;
+    margin: 0;
+    font-weight: 400;
+}
+
+.link-url {
+    font-size: 1rem;
+    color: #5DB8A8;
+    line-height: 1.15rem;
+}
+
+.link-wrapper {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: #1C8D99;
+    margin-top: .25rem;
+    margin-bottom: 1rem;
+}
