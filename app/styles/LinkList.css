@@ -1,17 +1,20 @@
-ul li {
+.link-list {
+    max-width: 300px;
+    width: 300px;
+}
+
+.link-list ul{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.link-list ul li{
     margin-bottom: 1rem;
 }
 
-ul li:last-child {
+.link-list ul li:last-child {
     margin-bottom: 0;
-}
-
-.link-list {
-    width: 264px;
-}
-
-ul {
-    width: 264px;
 }
 
 .list-title {
@@ -19,4 +22,5 @@ ul {
     color: #1C8D99;
     font-weight: 700;
     font-style: italic;
+    margin-bottom: 1.5rem;
 }
