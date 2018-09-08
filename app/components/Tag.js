@@ -12,7 +12,12 @@ export class Tag extends React.Component {
         closeIcon.src = CloseIcon;
         return(
             <div className="tag-container">
-                <span><p className="tag-text">{this.props.word}</p></span><span><img src={closeIcon.src} className="tag-close"/></span>
+                <span>
+                    <p className="tag-text">{this.props.word}</p>
+                </span>
+                <span>
+                    <img src={closeIcon.src} className="tag-close"/>
+                </span>
             </div>
         );
     }

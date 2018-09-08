@@ -1,6 +1,21 @@
 {
-    "name": "TagMarks",
-    "version": "1.0",
-    "description": "Build an Extension!",
-    "manifest_version": 2
-  }
+  "name": "Tag Marks",
+  "version": "1.0",
+  "description": "Making bookmarks more useful",
+  "permissions": ["bookmarks", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "16": "logos/16.png",
+    "32": "logos/32.png",
+    "48": "logos/48.png",
+    "128": "logos/128.png"
+  },
+  "browser_action": {
+    "default_icon": "logos/32.png"
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "manifest_version": 2
+}

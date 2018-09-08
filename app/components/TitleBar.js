@@ -12,7 +12,7 @@ export class TitleBar extends React.Component {
                     <SearchBar />
                 </div>
                 <div className="bottom-row">
-                    <FolderSelector />
+                    <FolderSelector options={this.props.options}/>
                 </div>
             </div>
         );

@@ -1,0 +1,86 @@
+[
+            {
+                "listTitle": "Tacos Tacos Tacos Tacos Tacos",
+                "links" : [
+                    {
+                        "text": "Kollegorna | Digital agency — Design, technology & strategy",
+                        "url": "https://www.kollegorna.se/"
+                    },
+                    {
+                        "text": "Art Director · Tatiana Mac",
+                        "url": "http://tatianamac.com/"
+                    },
+                    {
+                        "text": "Ben Mingo — Interactive & Graphic Designer",
+                        "url": "http://www.benmingo.com/"
+                    },
+                    {
+                        "text": "Timothy Achumba. Designer at Microsoft — Interface Lovers",
+                        "url": "https://timothyachumba.com/projects/interface-lovers"
+                    }
+                ]
+            },
+            {
+                "listTitle": "Design",
+                "links" : [
+                    {
+                        "text": "Kollegorna | Digital agency — Design, technology & strategy",
+                        "url": "https://www.kollegorna.se/"
+                    },
+                    {
+                        "text": "Art Director · Tatiana Mac",
+                        "url": "http://tatianamac.com/"
+                    },
+                    {
+                        "text": "Ben Mingo — Interactive & Graphic Designer",
+                        "url": "http://www.benmingo.com/"
+                    },
+                    {
+                        "text": "Timothy Achumba. Designer at Microsoft — Interface Lovers",
+                        "url": "https://timothyachumba.com/projects/interface-lovers"
+                    }
+                ]
+            },
+            {
+                "listTitle": "Portfillyizzles",
+                "links" : [
+                    {
+                        "text": "Kollegorna | Digital agency — Design, technology & strategy",
+                        "url": "https://www.kollegorna.se/"
+                    },
+                    {
+                        "text": "Art Director · Tatiana Mac",
+                        "url": "http://tatianamac.com/"
+                    },
+                    {
+                        "text": "Ben Mingo — Interactive & Graphic Designer",
+                        "url": "http://www.benmingo.com/"
+                    },
+                    {
+                        "text": "Timothy Achumba. Designer at Microsoft — Interface Lovers",
+                        "url": "https://timothyachumba.com/projects/interface-lovers"
+                    }
+                ]
+            },
+            {
+                "listTitle": "Chicken Noodle Soup",
+                "links" : [
+                    {
+                        "text": "Kollegorna | Digital agency — Design, technology & strategy",
+                        "url": "https://www.kollegorna.se/"
+                    },
+                    {
+                        "text": "Art Director · Tatiana Mac",
+                        "url": "http://tatianamac.com/"
+                    },
+                    {
+                        "text": "Ben Mingo — Interactive & Graphic Designer",
+                        "url": "http://www.benmingo.com/"
+                    },
+                    {
+                        "text": "Timothy Achumba. Designer at Microsoft — Interface Lovers",
+                        "url": "https://timothyachumba.com/projects/interface-lovers"
+                    }
+                ]
+            }
+        ];

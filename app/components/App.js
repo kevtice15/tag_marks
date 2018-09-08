@@ -1,127 +1,62 @@
 import React from 'react';
+import BookmarkStore from "../stores/BookmarkStore.js";
+import * as BookmarkActions from "../actions/BookmarkActions.js";
 import { TitleBar } from './TitleBar.js';
 import { BookmarkGrid } from './BookmarkGrid.js';
 import { FolderSelector } from './FolderSelector.js';
 import { SearchBar } from './SearchBar.js';
 import "../styles/App.css";
 
-export class App extends React.Component{
-    render() {
-        const url = "https://medium.com/@Florian/freebie-google-material-design-shadow-helper-2a0501295a2d#.ftgsjmrtk";
-        const text = "Freebie: Google Material Design Shadow Helper";
 
-        const linkList = {
-            listTitle: "Inspiration",
-            links : [
-                {
-                    text: "Kollegorna | Digital agency — Design, technology & strategy",
-                    url: "https://www.kollegorna.se/"
-                },
-                {
-                    text: "Art Director · Tatiana Mac",
-                    url: "http://tatianamac.com/"
-                },
-                {
-                    text: "Ben Mingo — Interactive & Graphic Designer",
-                    url: "http://www.benmingo.com/"
-                },
-                {
-                    text: "Timothy Achumba. Designer at Microsoft — Interface Lovers",
-                    url: "https://timothyachumba.com/projects/interface-lovers"
-                }
-            ]
+export class App extends React.Component{
+    constructor(props) {
+        super(props);
+        //Get the bookmark tree
+        BookmarkActions.getBookmarksFromChrome();
+        this.state = {
+            bookmarkTree: BookmarkStore.getAllBookmarks()
         }
-        const bookmarksList = [
-            {
-                listTitle: "Tacos Tacos Tacos Tacos Tacos",
-                links : [
-                    {
-                        text: "Kollegorna | Digital agency — Design, technology & strategy",
-                        url: "https://www.kollegorna.se/"
-                    },
-                    {
-                        text: "Art Director · Tatiana Mac",
-                        url: "http://tatianamac.com/"
-                    },
-                    {
-                        text: "Ben Mingo — Interactive & Graphic Designer",
-                        url: "http://www.benmingo.com/"
-                    },
-                    {
-                        text: "Timothy Achumba. Designer at Microsoft — Interface Lovers",
-                        url: "https://timothyachumba.com/projects/interface-lovers"
-                    }
-                ]
-            },
-            {
-                listTitle: "Design",
-                links : [
-                    {
-                        text: "Kollegorna | Digital agency — Design, technology & strategy",
-                        url: "https://www.kollegorna.se/"
-                    },
-                    {
-                        text: "Art Director · Tatiana Mac",
-                        url: "http://tatianamac.com/"
-                    },
-                    {
-                        text: "Ben Mingo — Interactive & Graphic Designer",
-                        url: "http://www.benmingo.com/"
-                    },
-                    {
-                        text: "Timothy Achumba. Designer at Microsoft — Interface Lovers",
-                        url: "https://timothyachumba.com/projects/interface-lovers"
-                    }
-                ]
-            },
-            {
-                listTitle: "Portfillyizzles",
-                links : [
-                    {
-                        text: "Kollegorna | Digital agency — Design, technology & strategy",
-                        url: "https://www.kollegorna.se/"
-                    },
-                    {
-                        text: "Art Director · Tatiana Mac",
-                        url: "http://tatianamac.com/"
-                    },
-                    {
-                        text: "Ben Mingo — Interactive & Graphic Designer",
-                        url: "http://www.benmingo.com/"
-                    },
-                    {
-                        text: "Timothy Achumba. Designer at Microsoft — Interface Lovers",
-                        url: "https://timothyachumba.com/projects/interface-lovers"
-                    }
-                ]
-            },
-            {
-                listTitle: "Chicken Noodle Soup",
-                links : [
-                    {
-                        text: "Kollegorna | Digital agency — Design, technology & strategy",
-                        url: "https://www.kollegorna.se/"
-                    },
-                    {
-                        text: "Art Director · Tatiana Mac",
-                        url: "http://tatianamac.com/"
-                    },
-                    {
-                        text: "Ben Mingo — Interactive & Graphic Designer",
-                        url: "http://www.benmingo.com/"
-                    },
-                    {
-                        text: "Timothy Achumba. Designer at Microsoft — Interface Lovers",
-                        url: "https://timothyachumba.com/projects/interface-lovers"
-                    }
-                ]
-            }
-        ]
-        return (
-            <div className="app-container">
-                <TitleBar />
-                <BookmarkGrid bookmarkLists={bookmarksList} />
-            </div>
-        );
+        this.updateBookmarkTree = this.updateBookmarkTree.bind(this);
+    }
+
+    componentWillMount() {
+        BookmarkStore.on("initialBookmarksReceived", this.updateBookmarkTree);
+    }
+
+    componentWillUnmount() {
+        BookmarkStore.removeListener("initialBookmarksReceived", this.updateBookmarkTree);
+    }
+
+    updateBookmarkTree() {
+        this.setState({
+            bookmarkTree: BookmarkStore.getAllBookmarks()
+        })
+        console.log("Updated bkmk tree", this.state.bookmarkTree);
+    }
+    
+    render() {
+        // const optionList = this.state.bookmarkTree[0].children.map(function(bookmarkNode){
+        //     var nodeForOptions = {id: bookmarkNode.id, title: bookmarkNode.title}
+        //     console.log(nodeForOptions);
+        //     return nodeForOptions;
+        // });
+        console.log("bookmark tree app", this.state.bookmarkTree);
+        //console.log("option list", optionList);
+        console.log("what is it then:", this.state.bookmarkTree);
+        if(this.state.bookmarkTree) {
+            return (
+                <div className="app-container">
+                    <TitleBar />
+                    <BookmarkGrid bookmarkLists={this.state.bookmarkTree[0].children} />
+                </div>
+            );
+        }
+        else {
+            return (
+                <div className="app-container">
+                    <p>Sorry, error.</p>
+                </div>
+            )
+        }
     }
 }

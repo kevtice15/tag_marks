@@ -1,5 +1,6 @@
 import React from 'react';
 import { TagList } from './TagList.js';
+import { TextButton } from './TextButton.js';
 import "../styles/LinkBox.css";
 
 export class LinkBox extends React.Component {
