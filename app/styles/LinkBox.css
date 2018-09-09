@@ -12,7 +12,7 @@
 
 .link-text {
     font-size: 1rem;
-    color: #3C9099;
+    color: #268E77;
     line-height: 1.5rem;
     margin: 0;
     font-weight: 400;
@@ -20,7 +20,7 @@
 
 .link-url {
     font-size: 1rem;
-    color: #5DB8A8;
+    color: #1C8D99;
     line-height: 1.15rem;
 }
 
@@ -31,4 +31,9 @@
     color: #1C8D99;
     margin-top: .25rem;
     margin-bottom: 1rem;
+}
+
+.folder-box {
+    display: flex;
+    justify-content: space-between;
 }

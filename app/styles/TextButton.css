@@ -1,7 +1,17 @@
 .text-button {
-    font-family: SFProDisplay;
-    font-style: italic;
     font-weight: 700;
-    font-size: 12px;
+    /* justify-self: end; */
+    border: none;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-style: italic;
     color: #FA7B90;
+    font-size: 0.9rem;
+}
+
+.text-button:hover {
+    background-color: #FBF4D8;
+}
+
+.text-button:active {
+    background-color: #F6E6B0;
 }

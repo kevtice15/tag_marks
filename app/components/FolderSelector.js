@@ -10,9 +10,10 @@ export class FolderSelector extends React.Component {
         return (
             <div>
                 <h2>Selected Bookmark Folder:</h2>
-                <select>
-                    {/* {optionsList} */}
-                </select>
+                <p>{this.props.selectedFolder.title}</p>
+                {/* <select>
+                    {optionsList}
+                </select> */}
             </div>
         );
         

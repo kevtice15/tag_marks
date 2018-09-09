@@ -11,20 +11,26 @@ import "../styles/App.css";
 export class App extends React.Component{
     constructor(props) {
         super(props);
-        //Get the bookmark tree
+        //Get the bookmark tree when the app is first being created
         BookmarkActions.getBookmarksFromChrome();
         this.state = {
-            bookmarkTree: BookmarkStore.getAllBookmarks()
+            bookmarkTree: BookmarkStore.getAllBookmarks(),
+            currentlySelectedFolder: {id:"woop", title: "woop woop"}
         }
         this.updateBookmarkTree = this.updateBookmarkTree.bind(this);
+        this.updateBreadcrumbs = this.updateBreadcrumbs.bind(this);
     }
 
     componentWillMount() {
         BookmarkStore.on("initialBookmarksReceived", this.updateBookmarkTree);
+        BookmarkStore.on("initialBookmarksReceived", this.updateBreadcrumbs);
+        BookmarkStore.on("newSubTreeReceived", this.updateBookmarkTree);
     }
 
     componentWillUnmount() {
         BookmarkStore.removeListener("initialBookmarksReceived", this.updateBookmarkTree);
+        BookmarkStore.removeListener("initialBookmarksReceived", this.updateBreadcrumbs);
+        BookmarkStore.removeListener("newSubTreeReceived", this.updateBookmarkTree);
     }
 
     updateBookmarkTree() {
@@ -32,6 +38,15 @@ export class App extends React.Component{
             bookmarkTree: BookmarkStore.getAllBookmarks()
         })
         console.log("Updated bkmk tree", this.state.bookmarkTree);
+    }
+
+    updateBreadcrumbs() {
+        this.setState({
+            currentlySelectedFolder: {
+                id: this.state.bookmarkTree[0].id, 
+                title: this.state.bookmarkTree[0].title
+            }
+        })
     }
     
     render() {
@@ -46,7 +61,7 @@ export class App extends React.Component{
         if(this.state.bookmarkTree) {
             return (
                 <div className="app-container">
-                    <TitleBar />
+                    <TitleBar selectedFolder={this.state.currentlySelectedFolder.title == "" ? "Untitled Folder" : this.state.currentlySelectedFolder.title}/>
                     <BookmarkGrid bookmarkLists={this.state.bookmarkTree[0].children} />
                 </div>
             );

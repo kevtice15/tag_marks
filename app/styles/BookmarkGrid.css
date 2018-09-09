@@ -4,4 +4,12 @@ ul li {
 
 .bookmark-grid {
     padding: 1.5rem 2rem;
+    overflow-y: scroll;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bookmark-grid ul {
+    display: inline-flex;
+    overflow-x: scroll;
 }

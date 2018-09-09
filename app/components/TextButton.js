@@ -4,7 +4,7 @@ import "../styles/TextButton.css";
 export class TextButton extends React.Component {
     render () {
         return (
-            <button>{this.props.buttonText}</button>
+            <button className="text-button" onClick={this.props.clickAction}>{this.props.buttonText}</button>
         );
     }
 }
